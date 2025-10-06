@@ -13,3 +13,5 @@ Este proyecto implementa una aplicación modular utilizando una arquitectura de 
 - Frontend: 
 - Backend: C#, .NET 
 - Base de Datos: SQL Server 
+
+Es un proyecto en desarrollo solo es una practica para reafirmar y recordar conocimiento sobre ingenieria de software, base de datos, C# asi como usar visual basic insiders dotnet, SQL SERVER Management Studio y SQL express.

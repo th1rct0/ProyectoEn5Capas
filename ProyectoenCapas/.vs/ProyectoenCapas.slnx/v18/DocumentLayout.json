@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\th1rc\\source\\repos\\ProyectoenCapas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A602C46-E15F-4DA2-98C5-DBFED614CB9E}|..\\Datos\\Datos.csproj|c:\\users\\th1rc\\source\\repos\\datos\\cad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD2EBA8-03C1-4AEC-BECE-4984BAE4A991}|..\\VT_Ca\\VT_Ca.csproj|c:\\users\\th1rc\\source\\repos\\vt_ca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A602C46-E15F-4DA2-98C5-DBFED614CB9E}|..\\Datos\\Datos.csproj|c:\\users\\th1rc\\source\\repos\\datos\\d_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD2EBA8-03C1-4AEC-BECE-4984BAE4A991}|..\\VT_Ca\\VT_Ca.csproj|c:\\users\\th1rc\\source\\repos\\vt_ca\\p_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB91F8A-CE83-483E-9F1E-032138652084}|..\\Negocio\\Negocio.csproj|c:\\users\\th1rc\\source\\repos\\negocio\\n_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD2EBA8-03C1-4AEC-BECE-4984BAE4A991}|..\\VT_Ca\\VT_Ca.csproj|c:\\users\\th1rc\\source\\repos\\vt_ca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B47929A-1050-4099-BAC2-FAD24BF54F1F}|..\\Entidades\\Entidades.csproj|c:\\users\\th1rc\\source\\repos\\entidades\\e_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD2EBA8-03C1-4AEC-BECE-4984BAE4A991}|..\\VT_Ca\\VT_Ca.csproj|c:\\users\\th1rc\\source\\repos\\vt_ca\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD2EBA8-03C1-4AEC-BECE-4984BAE4A991}|..\\VT_Ca\\VT_Ca.csproj|c:\\users\\th1rc\\source\\repos\\vt_ca\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD2EBA8-03C1-4AEC-BECE-4984BAE4A991}|..\\VT_Ca\\VT_Ca.csproj|c:\\users\\th1rc\\source\\repos\\vt_ca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "E_Customer.cs",
+              "DocumentMoniker": "C:\\Users\\th1rc\\source\\repos\\Entidades\\E_Customer.cs",
+              "RelativeDocumentMoniker": "..\\Entidades\\E_Customer.cs",
+              "ToolTip": "C:\\Users\\th1rc\\source\\repos\\Entidades\\E_Customer.cs",
+              "RelativeToolTip": "..\\Entidades\\E_Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:18:43.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\th1rc\\source\\repos\\VT_Ca\\Program.cs",
+              "RelativeDocumentMoniker": "..\\VT_Ca\\Program.cs",
+              "ToolTip": "C:\\Users\\th1rc\\source\\repos\\VT_Ca\\Program.cs",
+              "RelativeToolTip": "..\\VT_Ca\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:56:34.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\th1rc\\source\\repos\\VT_Ca\\Form1.resx",
+              "RelativeDocumentMoniker": "..\\VT_Ca\\Form1.resx",
+              "ToolTip": "C:\\Users\\th1rc\\source\\repos\\VT_Ca\\Form1.resx",
+              "RelativeToolTip": "..\\VT_Ca\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-10-04T18:42:13.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\th1rc\\source\\repos\\VT_Ca\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\VT_Ca\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\th1rc\\source\\repos\\VT_Ca\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\VT_Ca\\Form1.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:34:33.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\th1rc\\source\\repos\\VT_Ca\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\VT_Ca\\Form1.cs",
+              "ToolTip": "C:\\Users\\th1rc\\source\\repos\\VT_Ca\\Form1.cs",
+              "RelativeToolTip": "..\\VT_Ca\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:23:17.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "P_Customer.cs",
+              "DocumentMoniker": "C:\\Users\\th1rc\\source\\repos\\VT_Ca\\P_Customer.cs",
+              "RelativeDocumentMoniker": "..\\VT_Ca\\P_Customer.cs",
+              "ToolTip": "C:\\Users\\th1rc\\source\\repos\\VT_Ca\\P_Customer.cs",
+              "RelativeToolTip": "..\\VT_Ca\\P_Customer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:18:07.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "N_Customer.cs",
+              "DocumentMoniker": "C:\\Users\\th1rc\\source\\repos\\Negocio\\N_Customer.cs",
+              "RelativeDocumentMoniker": "..\\Negocio\\N_Customer.cs",
+              "ToolTip": "C:\\Users\\th1rc\\source\\repos\\Negocio\\N_Customer.cs",
+              "RelativeToolTip": "..\\Negocio\\N_Customer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:09:39.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "D_Customer.cs",
+              "DocumentMoniker": "C:\\Users\\th1rc\\source\\repos\\Datos\\D_Customer.cs",
+              "RelativeDocumentMoniker": "..\\Datos\\D_Customer.cs",
+              "ToolTip": "C:\\Users\\th1rc\\source\\repos\\Datos\\D_Customer.cs",
+              "RelativeToolTip": "..\\Datos\\D_Customer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:02:06.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CAD.cs",
+              "DocumentMoniker": "C:\\Users\\th1rc\\source\\repos\\Datos\\CAD.cs",
+              "RelativeDocumentMoniker": "..\\Datos\\CAD.cs",
+              "ToolTip": "C:\\Users\\th1rc\\source\\repos\\Datos\\CAD.cs",
+              "RelativeToolTip": "..\\Datos\\CAD.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAB4AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T17:08:27.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\th1rc\\source\\repos\\VT_Ca\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\VT_Ca\\Form1.cs",
+              "ToolTip": "C:\\Users\\th1rc\\source\\repos\\VT_Ca\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\VT_Ca\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:36:35.159Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

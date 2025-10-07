@@ -23,7 +23,7 @@ Este proyecto implementa una aplicación modular utilizando una arquitectura de 
 
 ## 🚧 Estado del Proyecto
 
-⚠️ Este proyecto está en desarrollo. Su propósito es educativo y experimental, enfocado en la práctica de conceptos clave de arquitectura de software y manejo de datos.
+⚠️ Este proyecto está en desarrollo, siguiendo un curso de Udemy. Su propósito es educativo y experimental, enfocado en la práctica de conceptos clave de arquitectura de software y manejo de datos. 
 
 ## 👨‍💻 Autor
 

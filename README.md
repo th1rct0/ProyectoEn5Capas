@@ -30,10 +30,10 @@ Este proyecto implementa una aplicación modular utilizando una arquitectura de 
 **Humberto**  
 Ingeniero en Sistemas de Información  
 Facultad de Informática Mazatlán  
-GitHub: [tuusuario](https://github.com/tuusuario)  
-Correo: [tuemail@example.com](mailto:tuemail@example.com)
+GitHub: th1rct0. https://github.com/th1rct0
+Correo: hramos.sigma@gmail.com
 
-## 📄 Licencia
+## 📄 Licencia MIT
 
 Este proyecto está bajo la licencia MIT. Puedes consultarla en el archivo `LICENSE`.
 

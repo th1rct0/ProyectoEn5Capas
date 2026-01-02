@@ -26,7 +26,7 @@ Este proyecto implementa una aplicación modular utilizando una arquitectura de 
 ⚠️ Este proyecto está en desarrollo, siguiendo un curso de Udemy. Su propósito es educativo y experimental, enfocado en la práctica de conceptos clave de arquitectura de software y manejo de datos. 
 
 La primera Etapa del Proyecto esta terminada, la aplicacion, busca, guarda, acualiza y elimina de la base de datos desplegando la informacion en un datagrid en el formulario. Se pretende reutilizar el codigo hecho hasta aqui en otro que sera una aplicaciuon web.
-https://github.com/th1rct0/Proyecto-En5CapasEscritorio
+https://github.com/th1rct0/Proyecto-En5CapasEscritorio<BR>
 BASES DE DATOS QUE SE UTILIZARON:<BR>
 https://github.com/th1rct0/ProyectoenCapasBD/tree/master
 ## 👨‍💻 Autor

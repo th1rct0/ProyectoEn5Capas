@@ -27,6 +27,8 @@ Este proyecto implementa una aplicación modular utilizando una arquitectura de 
 
 La primera Etapa del Proyecto esta terminada, la aplicacion, busca, guarda, acualiza y elimina de la base de datos desplegando la informacion en un datagrid en el formulario. Se pretende reutilizar el codigo hecho hasta aqui en otro que sera una aplicaciuon web.
 https://github.com/th1rct0/Proyecto-En5CapasEscritorio
+BASES DE DATOS QUE SE UTILIZARON:<BR>
+https://github.com/th1rct0/ProyectoenCapasBD/tree/master
 ## 👨‍💻 Autor
 
 **Humberto**  

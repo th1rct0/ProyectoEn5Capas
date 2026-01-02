@@ -32,6 +32,7 @@ https://github.com/th1rct0/Proyecto-En5CapasEscritorio
 **Humberto**  
 Ingeniero en Sistemas de Información  
 Facultad de Informática Mazatlán  
+Universidad Autonoma de Sinaloa
 GitHub: th1rct0. https://github.com/th1rct0
 Correo: hramos.sigma@gmail.com
 
